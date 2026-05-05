@@ -1,0 +1,6 @@
+{
+  "name": "Permata Peris",
+  "description": "Aplikasi pemantauan pertumbuhan balita untuk kader Posyandu Desa Ladang Peris (Melati 1-7).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Toddler growth tracking", "Excel reporting", "Multi-Posyandu management"]
+}
